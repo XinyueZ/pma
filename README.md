@@ -1,6 +1,8 @@
 # Progressive Mobile App
 
-A concept of native mobile-app, Android, iOS, Windows
+A concept of native mobile-app, Android, iOS, Windows.
+
+> ever  responsible syncable mobile-app concept
 
 [introduce.docx](introduce.docx)
 
