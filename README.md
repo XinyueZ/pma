@@ -10,7 +10,7 @@ A concept of native mobile-app, Android, iOS, Windows.
 
 ![basic](/basic.png)
 
-# Some drafts
+# Drafts of architecture 
 
 ![details](/draft_of_details.jpg)
 
