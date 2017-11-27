@@ -10,6 +10,9 @@ A concept of native mobile-app, Android, iOS, Windows.
 
 ![basic](/basic.png)
 
+# Some drafts
+
+![details](/draft_of_details.jpg)
 
 Inspired by Google Inc. the [progressive web application](https://developers.google.com/web/progressive-web-apps/) 
 
