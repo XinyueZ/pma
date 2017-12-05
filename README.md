@@ -14,6 +14,14 @@ A concept of native mobile-app, Android, iOS, Windows.
 
 ![details](/draft_of_details.jpg)
 
+# Drafts of modularization of Android Development
+
+#### Use different modules to struct whole project.
+
+> app + core + base + repository
+
+![details](/draft_of_modules.jpg)
+
 # Others
 Inspired by Google Inc. the [progressive web application](https://developers.google.com/web/progressive-web-apps/) 
 
