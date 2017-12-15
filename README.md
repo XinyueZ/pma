@@ -18,10 +18,20 @@ A concept of native mobile-app, Android, iOS, Windows.
 
 #### Use different modules to struct whole project.
 
-> app + core + base + repository
+There're a lot of ideas about the modularization of project:
+
+Blueprints:
+
+> mvvm based: app + core + base + repository
 
 ![details](/draft_of_modules.jpg)
 
+With codes:
+
+> mvp based: [clean code](https://github.com/android10/Android-CleanArchitecture)
+
+> [Google Arch blueprints](https://github.com/googlesamples/android-architecture)
+ 
 # Others
 Inspired by Google Inc. the [progressive web application](https://developers.google.com/web/progressive-web-apps/) 
 
